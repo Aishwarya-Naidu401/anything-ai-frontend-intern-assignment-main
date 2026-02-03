@@ -135,5 +135,5 @@ Focus was placed on clean UI, auth flow, and frontend–backend integration
 
 👤 Author
 
-Shafiq Ahmed 
+Aishwarya Dadithota 
 Frontend / Full-Stack Developer (Internship level)
